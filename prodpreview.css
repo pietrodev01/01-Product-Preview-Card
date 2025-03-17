@@ -152,5 +152,6 @@ body {
     border-radius: 12px 0 0 12px;
     content: url("images/image-product-desktop.jpg");
     width: 100%;
+    height: 100%;
   }
 }
